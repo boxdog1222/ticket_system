@@ -324,6 +324,8 @@
                             var edit_html = '';
                             if (issue_info[i].owner == true) {
                                 edit_html = "<textarea class='form-control mb-2 edit_issue_text'>" + issue_info[i].issue_text + "</textarea><button class='btn btn-info form-control'>更新</button>";
+                            } else {
+                                edit_html = "<pre>" + issue_info[i].issue_text + "</pre>";
                             }
                             info_html += "<div class='row'>" +
                                 "<div class='col-lg-12'>" +
