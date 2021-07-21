@@ -1,0 +1,6 @@
+http://ticket.abay.huhu.tw/
+
+ADMIN帳密: admin/1234
+QA帳密: QA01/0000
+RD帳密: RD01/0000
+PM帳密: PM01/0000
