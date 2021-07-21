@@ -1,0 +1,23 @@
+{
+	"sEmptyTable"    : "无任何数据可显示",
+	"sInfo"          : "目前记录：_START_ 至 _END_　总笔数：_TOTAL_",
+	"sInfoEmpty"     : "0 页 0 笔资料 共 0 笔资料",
+	"sInfoFiltered"  : "(过滤总笔数 _MAX_)",
+	"sInfoPostFix"   : "",
+	"sInfoThousands" : ",",
+	"sLengthMenu"    : "显示 _MENU_ 笔记录",
+	"sLoadingRecords": "正在读取中...",
+	"sProcessing"    : "处理中...",
+	"sSearch"        : "筛选　",
+	"sZeroRecords"   : "无符合资料",
+	"oPaginate"      : {
+		"sFirst"         : "首页",
+		"sPrevious"      : "上一页",
+		"sNext"          : "下一页",
+		"sLast"          : "末页"
+		},
+	"oAria"          : {
+		"sSortAscending" : ": aktivieren, um Spalte aufsteigend zu sortieren",
+		"sSortDescending": ": aktivieren, um Spalte absteigend zu sortieren"
+	}
+}

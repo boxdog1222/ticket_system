@@ -1,0 +1,23 @@
+{
+	"sEmptyTable":		"沒有任何數據可顯示",
+	"sInfo":			"目前記錄：_START_ 至 _END_　總筆數：_TOTAL_",
+	"sInfoEmpty":		"0 頁 0 筆資料 共 0 筆資料",
+	"sInfoFiltered":	"(過濾總筆數 _MAX_)",
+	"sInfoPostFix":			"",
+	"sInfoThousands":  	",",
+	"sLengthMenu":		"顯示 _MENU_ 筆記錄",
+	"sLoadingRecords":	"正在讀取中...",
+	"sProcessing":		"處理中...",
+	"sSearch":			"篩選　",
+	"sZeroRecords":		"無符合資料",
+	"oPaginate": {
+		"sFirst":    	"首頁",
+		"sPrevious": 	"上一頁",
+		"sNext":     	"下一頁",
+		"sLast":     	"末頁"
+	},
+	"oAria": {
+		"sSortAscending":  ": aktivieren, um Spalte aufsteigend zu sortieren",
+		"sSortDescending": ": aktivieren, um Spalte absteigend zu sortieren"
+	}
+}

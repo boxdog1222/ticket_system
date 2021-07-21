@@ -1,0 +1,14 @@
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '｜ Project Name, 案例內文test, ["0_0.png","0_1.png","0_7.png"], 0, 1, 0)' at line 1 (SQL: INSERT INTO `project`(`project_name`, `project_text`, `img_src`, `type`, `status`, `p_order`) VALUES (案例名稱 ｜ Project Name, 案例內文test, ["0_0.png","0_1.png","0_7.png"], 0, 1, 0))
+Undefined variable: new_img_src
+unlink(assets/images/project/1_4.png): No such file or directory
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2' for key 'PRIMARY' (SQL: INSERT INTO `classification`(`id`, `classification_name`, `classification_name_en`, `status`) VALUES (2, '測試', 'Test', '1'))
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'project_banner_img_2' for key 'PRIMARY' (SQL: INSERT INTO index_setting (`index_key`, `img_src`) VALUES ('project_banner_img_2', ''))
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2' for key 'PRIMARY' (SQL: INSERT INTO `classification`(`id`, `classification_name`, `classification_name_en`, `status`) VALUES (2, 'tets', 'test', '0'))
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'project_banner_img_2' for key 'PRIMARY' (SQL: INSERT INTO index_setting (`index_key`, `img_src`) VALUES ('project_banner_img_2', ''))
+Undefined variable: new_project_banner
+unlink(assets/images/project_banner_img_3): No such file or directory
+Undefined variable: class_status
+Undefined variable: p_id
+The file "官網-總覽圖-5.png" was not uploaded due to an unknown error.
+Undefined offset: 0
+Undefined index: password
